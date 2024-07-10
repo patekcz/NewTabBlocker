@@ -53,17 +53,21 @@ cd NewTabBlocker
 ## 📂 Struktura projektu
 
 ```
-NewTabBlocker/
-│
-├── src/
-│   ├── background.js
-│   ├── content.js
-│   ├── manifest.json
-│   └── popup.html
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+.
+└── NewTabBlocker
+    ├── README.md
+    └── src
+        ├── icons
+        │   ├── default_icon.png
+        │   ├── icon128-modified.png
+        │   ├── icon128.png
+        │   ├── icon16.png
+        │   ├── icon32.png
+        │   └── icon48.png
+        ├── manifest.json
+        ├── popup.html
+        ├── popup.js
+        └── script.js
 ```
 
 ## 🤝 Přispívání
